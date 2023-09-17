@@ -47,8 +47,12 @@ h4 {
   text-shadow: 2px 2px 5px #ff6cf0;
 }
 
-#when-where {
+#when-where, #streams {
   font-size: 1.2em;
+}
+
+#streams a {
+  color: #2aa1ff;
 }
 
 .title {
